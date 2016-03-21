@@ -51,7 +51,7 @@ test(question3_6) :-
   daughter_of(high_german, west_germanic),
   daughter_of(low_german, west_germanic),
   daughter_of(old_english, anglo_frisian),
-  daughter_of(old_frisian, anglo_frisian),
+  daughter_of(old_frisian, aaanglo_frisian),
   daughter_of(english, old_english),
   daughter_of(frisian, old_frisian),
   daughter_of(german, high_german),
